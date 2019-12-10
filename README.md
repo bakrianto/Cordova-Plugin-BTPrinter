@@ -20,7 +20,7 @@ Thank's!
 Using the Cordova CLI and NPM, run:
 
 ```
-cordova plugin add https://github.com/CesarBalzer/Cordova-Plugin-BTPrinter.git
+cordova plugin add https://github.com/bakrianto/Cordova-Plugin-BTPrinter.git
 ```
 
 ## Usage
